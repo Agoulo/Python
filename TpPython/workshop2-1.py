@@ -1,0 +1,1 @@
+Allocation_bandepassante=input("Veuillez d'entrer la bande passante totale disponible)

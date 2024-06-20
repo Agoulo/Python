@@ -29,6 +29,7 @@ print(ma_chaine[0])
 # affiche lettre à la position 3
 print(ma_chaine[3])
 
+
 # debut à 2 jusqu'à la 5 (exclue)
 print(ma_chaine[2:5])
 
